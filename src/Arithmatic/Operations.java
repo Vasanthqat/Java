@@ -9,6 +9,7 @@ public class Operations {
 		System.out.println(3*6);
 		System.out.println(3/6);
 		System.out.println(3%6);
+		System.out.println("Success");
 	}
 
 }
